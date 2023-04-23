@@ -1,3 +1,5 @@
+using System.Drawing.Printing;
+
 namespace Practicas_Csharp
 {
     internal static class Program
@@ -8,7 +10,7 @@ namespace Practicas_Csharp
         [STAThread]
         static void Main()
         {
-            
+            //comentario
         }
     }
 }
